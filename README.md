@@ -1,4 +1,4 @@
-# finance-news-sentiment-analysis
+# finance-news-sentiment-analysis-framework
 
 ## Introduction
 
