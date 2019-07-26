@@ -1,4 +1,4 @@
-# finance-sentiment-analysis
+# finance-news-sentiment-analysis
 
 ## Introduction
 
